@@ -1,0 +1,15 @@
+## Step 1: Navigate to the project directory
+I opened my powershell terminal and navigated to my ALX frontend project folder: 
+> cd alx-intermediate-frontend
+
+## Step 2: Create the SASS directory
+I created a folder for this project called:
+> mkdir 0x03-sass_scss
+
+## Step 3: Install SASS
+I installed SASS version globally using npm: 
+> npm install -g sass
+
+## Step 4: Verify installation
+I checked the SASS version to confirm it installed successfully:
+> sass --version
